@@ -1,5 +1,3 @@
-const table = document.querySelector('#tabela-pacientes');
-const paciente = document.querySelector('.paciente');
 const remove = document.querySelectorAll('.icone-remover');
 
 /* for(let i = 0; i < remove.length; i++){
